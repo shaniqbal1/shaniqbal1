@@ -64,14 +64,6 @@ A full-stack real-time social networking application
 
 ---
 
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shaniqbal&theme=tokyo-night" />
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 <p align="center">
