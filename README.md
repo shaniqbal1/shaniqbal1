@@ -1,87 +1,127 @@
-# 👋 Hi, I'm Shan Iqbal
+<!-- HERO HEADER -->
+<h1 align="center">Hi 👋, I'm Shan Iqbal</h1>
+<h3 align="center">Full-Stack Developer | React • Node • MongoDB • Real-Time Apps</h3>
 
-💻 Full-Stack Developer from Pakistan  
-🚀 Passionate about building modern, fast, and scalable web applications  
-🧠 Focused on clean code, performance, and real-world problem solving  
-
----
-
-## 💫 About Me
-
-I’m a full-stack developer who loves turning ideas into real-world digital products.  
-I specialize in building responsive, high-performance web apps using modern technologies.
-
-- 🔭 Currently working on improving my full-stack & freelance projects  
-- 🌱 Learning advanced backend architecture & system design  
-- ⚡ Interested in scalable SaaS, real-time apps, and AI-powered tools  
-- 🎯 Goal: Become a top-tier full-stack engineer & freelancer  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full-Stack+Web+Developer;MERN+Stack+Engineer;Building+Scalable+Web+Apps;Real-Time+Socket.io+Developer;Freelancer+%7C+Problem+Solver" />
+</p>
 
 ---
 
-## 🌐 Connect With Me
+## 🚀 About Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shan-iqbal)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/shaniqbal)  
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:snnn757@gmail.com)  
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook)](https://facebook.com/shaniqbal)  
-[![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance)](https://behance.net/shaniqbal)  
+💻 I’m a Full-Stack Developer from Pakistan passionate about building **high-performance web applications**  
+⚡ I love turning complex ideas into **clean, scalable, and production-ready systems**  
+🌐 Focused on **MERN Stack, Real-time apps, and modern UI/UX systems**  
+🎯 Goal: Become a world-class software engineer + successful freelance developer  
 
 ---
 
-## 🧠 Tech Stack
+## 🧠 Tech Stack (Core Skills)
 
-### 🚀 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Next JS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
+### ⚡ Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,redux,vite" />
+</p>
 
 ### ⚙️ Backend
-![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-404D59?style=for-the-badge&logo=express)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io)
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,fastapi,firebase" />
+</p>
 
-### ☁️ Tools & Platforms
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shaniqbal&show_icons=true&theme=dark&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=shaniqbal&theme=dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shaniqbal&layout=compact&theme=dark&hide_border=true)
+### ☁️ Tools & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,postman,docker" />
+</p>
 
 ---
 
 ## 🚀 Featured Project
 
-### 🌊 Nexus (Social Networking Platform)
-A full-stack real-time social media app built with:
-- React
-- Express.js
-- MongoDB
-- Socket.io  
+### 🌊 Nexus — Real-Time Social Platform
+> A modern full-stack social networking platform with real-time features
 
-✨ Features:
-- Authentication system  
-- Real-time notifications  
-- Friend system  
-- User profiles  
-- Responsive UI  
+**Tech Stack:**
+- React + Node + Express + MongoDB
+- Socket.io for real-time communication
+- JWT Authentication
+- Responsive UI/UX
 
----
-
-## 👀 Profile Views
-
-![Views](https://komarev.com/ghpvc/?username=shaniqbal&style=for-the-badge)
+**🔥 Features:**
+- 👤 User authentication system  
+- 💬 Real-time chat & wave system  
+- 🔔 Instant notifications  
+- 👥 Friend connections  
+- 📱 Mobile responsive design  
 
 ---
 
-⭐ *Always learning, building, and improving.*
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shaniqbal&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaniqbal&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=shaniqbal&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shaniqbal&theme=tokyo-night" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/shan-iqbal">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:snnn757@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  <a href="https://github.com/shaniqbal">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  <a href="https://facebook.com/">
+    <img src="https://skillicons.dev/icons?i=facebook" />
+  </a>
+</p>
+
+---
+
+## 🧭 Profile Highlights
+
+- ⚡ 100% Focused on Full-Stack Development  
+- 🚀 Building real-world scalable projects  
+- 💡 Passion for real-time systems (Socket.io)  
+- 🧠 Always learning modern tech & architecture  
+- 💼 Open to freelance & remote opportunities  
+
+---
+
+## 🏆 GitHub Trophy
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shaniqbal&theme=tokyonight&no-frame=true&row=1&column=7" />
+</p>
+
+---
+
+## 👀 Visitor Counter
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shaniqbal&style=for-the-badge" />
+</p>
+
+---
+
+<p align="center">
+  💙 Built with passion by <b>Shan Iqbal</b>
+</p>
